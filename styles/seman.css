@@ -1,0 +1,47 @@
+h1, h3{
+	color: #00FF00;
+}
+
+section  {
+	border:5px groove;
+	border-color: #990066;
+	margin: 10px;
+	padding: 10px;
+	color: #00FF00;
+}
+
+nav {
+	border:5px groove;
+	border-color: #990066;
+	position: fixed;
+  	text-align: center;
+  	color: #00FF00;
+  	background-color: rgba(255,255,255,.5);
+}
+
+nav ul {
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 5px;
+	padding-bottom: 2px;
+}
+
+nav li {
+	display: inline;
+	padding-left: 10px;
+	padding-right: 10px;
+
+
+}
+
+body {
+	background-image: url("http://7-themes.com/data_images/out/6/6789426-fantastic-sushi-wallpaper.jpg");
+	background-size: auto;
+	background-attachment: fixed;
+	
+}
+
+section {
+		margin-left: 235px;
+		margin-right: 500px;
+}
